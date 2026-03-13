@@ -1,0 +1,8 @@
+{
+  "name": "MindRecap",
+  "description": "The ultimate AI recording, summarization, and knowledge assistant platform. Transform meetings, lectures, interviews, and academic recordings into structured insights and actionable content instantly.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
